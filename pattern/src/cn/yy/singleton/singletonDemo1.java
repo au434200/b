@@ -1,7 +1,7 @@
 package cn.yy.singleton;
 
 /**
- * 饿汉式12
+ * 饿汉式
  * @author enter
  *
  */
